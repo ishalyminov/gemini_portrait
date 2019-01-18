@@ -1,10 +1,11 @@
-# Gemini
+# Gemini-portrait
 
-Gemini is a modern LaTeX [beamerposter] theme.
+This is a portrait version of @anishathalye's <a href="https://github.com/anishathalye/gemini">gemini</a> LaTeX [beamerposter] theme.
+The picture below corresponds to heriotwatt color theme - compatibility with the original ones not tested.
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-gemini.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-gemini-small.png">
+<a href="https://raw.githubusercontent.com/ishalyminov/gemini_portrait/master/assets/gemini-portrait-heriotwatt.pdf">
+<img src="https://raw.githubusercontent.com/ishalyminov/gemini_portrait/master/assets/gemini-portrait-heriotwatt-small.png">
 </a>
 </p>
 
@@ -27,34 +28,6 @@ Gemini is a modern LaTeX [beamerposter] theme.
    highly recommended)
 
 1. Run `make` to build your poster
-
-# Themes
-
-Gemini currently includes three color themes:
-
-* `gemini` (default)
-* `mit`
-* `labsix`
-
-The alternative themes are intended to be inspiration for you to make your own
-color theme. You're highly recommended to make your own color theme (it's
-really easy!) or use the default Gemini theme.
-
-## MIT theme
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-mit.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-mit-small.png">
-</a>
-</p>
-
-## LabSix theme
-
-<p align="center">
-<a href="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-labsix.pdf">
-<img src="https://raw.githubusercontent.com/anishathalye/gemini/assets/poster-labsix-small.png">
-</a>
-</p>
 
 # Design goals
 
